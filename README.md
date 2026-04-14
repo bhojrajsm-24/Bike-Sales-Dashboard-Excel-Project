@@ -60,7 +60,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 ## 📁 Dataset
 
 **Source:** [Bike Sales Dataset]
-- <a href = "https://github.com/bhojrajsm-24/Bike-Sales-Dashboard-Excel-Project/blob/main/Bike%20Sales%20Dataset.xlsx"></a>
+- <a href = "https://github.com/bhojrajsm-24/Bike-Sales-Dashboard-Excel-Project/blob/main/Bike%20Sales%20Dataset.xlsx">View Dataset</a>
 
 **Original Data Contains:**
 - Customer demographics (age, gender, marital status, education)
@@ -95,8 +95,6 @@ This project solidified my understanding of:
 ---
 
 **Tools Used:** Microsoft Excel  
-**Dataset Credit:** [Alex The Analyst]
-- <a href = "https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx"></a>
 **Status:** ✅ Complete
 
 ---
