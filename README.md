@@ -2,7 +2,7 @@
 
 A comprehensive Excel-based sales analytics dashboard that transforms raw bike sales data into actionable insights through advanced data manipulation, visualization, and interactive filtering.
 
-![Dashboard Preview]<img width="1315" height="592" alt="Screenshot 2026-04-15 022236" src="https://github.com/user-attachments/assets/fba3779c-4722-4fcd-ac03-7ef8e76c2b2e" />
+Dashboard Preview<img width="1315" height="592" alt="Screenshot 2026-04-15 022236" src="https://github.com/user-attachments/assets/fba3779c-4722-4fcd-ac03-7ef8e76c2b2e" />
 
 ##  Project Overview
 
@@ -59,7 +59,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 
 ##  Dataset
 
-**Source:** [Bike Sales Dataset]
+**Source:** Bike Sales Dataset
 - <a href = "https://github.com/bhojrajsm-24/Bike-Sales-Dashboard-Excel-Project/blob/main/Bike%20Sales%20Dataset.xlsx">View Dataset</a>
 
 **Original Data Contains:**
@@ -99,4 +99,6 @@ This project solidified my understanding of:
 
 ---
 
-*Built to practice real-world data analysis and dashboard creation skills.*
+**Open to Suggestions:** If you see room for improvement, let me know. Feedback appreciated!
+
+---
