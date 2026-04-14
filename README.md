@@ -1,10 +1,10 @@
-# 🚴 Bike Sales Dashboard
+#  Bike Sales Dashboard
 
 A comprehensive Excel-based sales analytics dashboard that transforms raw bike sales data into actionable insights through advanced data manipulation, visualization, and interactive filtering.
 
 ![Dashboard Preview]<img width="1315" height="592" alt="Screenshot 2026-04-15 022236" src="https://github.com/user-attachments/assets/fba3779c-4722-4fcd-ac03-7ef8e76c2b2e" />
 
-## 📊 Project Overview
+##  Project Overview
 
 This project demonstrates end-to-end data analysis using Microsoft Excel—from messy raw data to a polished, interactive dashboard. Built to analyze bike purchase patterns across demographics, income levels, commute distances, and age groups.
 
@@ -26,7 +26,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 5. **What education level drives the most purchases?**  
    → Bachelors degree holders are the primary buyers, followed by Partial College and Graduate Degree holders
 
-## 🎯 Features
+##  Features
 
 ### Interactive Filters (Slicers)
 - **Marital Status:** Married vs. Single buyer behavior
@@ -45,7 +45,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 - Short commutes (0-1 miles) show highest conversion rates
 - Purchase drop-off after 5-10 miles commute distance
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 
 | Skill | Application |
 |-------|-------------|
@@ -57,7 +57,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 | **Conditional Formatting** | Visual data highlighting |
 | **Dashboard Design** | User-centric layout with clear visual hierarchy |
 
-## 📁 Dataset
+##  Dataset
 
 **Source:** [Bike Sales Dataset]
 - <a href = "https://github.com/bhojrajsm-24/Bike-Sales-Dashboard-Excel-Project/blob/main/Bike%20Sales%20Dataset.xlsx">View Dataset</a>
@@ -69,7 +69,7 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 - Region
 - Purchase decision (Yes/No)
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone this repository
 2. Open `Bike_Sales_Dashboard.xlsx` in Microsoft Excel
@@ -77,14 +77,14 @@ This project demonstrates end-to-end data analysis using Microsoft Excel—from 
 4. Hover over charts to see detailed data points
 5. Analyze purchase trends across different customer segments
 
-## 📈 Key Findings
+##  Key Findings
 
 - **Income Gap:** Bike buyers earn ~$10k more on average than non-buyers
 - **Commute Sweet Spot:** 0-2 miles is the prime conversion zone
 - **Age Factor:** Middle-aged customers are the primary market
 - **Regional Leader:** North America shows strongest purchase rates
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project solidified my understanding of:
 - Transforming raw data into business intelligence
@@ -95,7 +95,7 @@ This project solidified my understanding of:
 ---
 
 **Tools Used:** Microsoft Excel  
-**Status:** ✅ Complete
+**Status:**  Complete
 
 ---
 
